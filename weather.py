@@ -7,7 +7,7 @@ from PyQt5.QtGui import QPixmap
 from PyQt5.QtWidgets import *
 from geopy.geocoders import Nominatim
 
-api_key = "d2c5f120418926301fd81f6589e2531d"
+api_key = "Your API KEY"
 lat = ""
 lon = ""
 
